@@ -29,7 +29,7 @@ Installation is simple too::
 from setuptools import setup
 
 setup(
-    name="dj-searchurl",
+    name="dj-search-url",
     version="0.1",
 
     description="Use Search URLs in your Django Haystack Application.",
